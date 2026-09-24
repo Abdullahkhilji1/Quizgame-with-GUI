@@ -316,4 +316,4 @@ int main() {
     cout << "🎉 Come back soon for more challenges on Brain Warrior! 🧠🔥\n";
 
     return 0;
-}dome
+}
